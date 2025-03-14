@@ -1,1 +1,1 @@
-# [envSCRIPTS Documentation | Meta Masks](https://docs.daddydubz.com/free/metamasks)
+# [envSCRIPTS Documentation | Meta Masks](https://docs.envRP.gg/free/metamasks)
