@@ -1,5 +1,5 @@
 --Server transaction handler.  Edit as required.
-lib.callback.register('dd5m_metamasks:server:handleTransaction', function(source, amount, maskData)
+lib.callback.register('env_metamasks:server:handleTransaction', function(source, amount, maskData)
     local Player = exports.qbx_core:GetPlayer(source)
     local cash = Player.PlayerData.money.cash
     local bank = Player.PlayerData.money.bank
